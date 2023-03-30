@@ -4,9 +4,6 @@
 <h4> 
 🌱Studying Manual and Automated Tests
 </h4>
-<h4>
-😄 Pronouns: She/Her
-</h4>
 </div>
 <div>
 <a href="[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thaynaracalixtoa&repo=github-readme-stats)](https://github.com/thaynaracalixto/github-readme-stats)">
