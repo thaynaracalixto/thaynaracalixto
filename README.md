@@ -2,7 +2,6 @@
 🌱 Studying Manual and Automated Tests.
 😄 Pronouns: She/Her
 
-<div align="center">
-  <img height="200cm" src ="https://photos.google.com/share/AF1QipP_3ToY5QVT3_Zl8UD64d1heB_AmkvfuVhmb9EgwijRBTBGjSg1RJlLiXUMA11rkg/photo/AF1QipMRbaoA7ZN4xb7RKeUoTD6lJljuOYukpqXN3gGs?key=WGFra1A0WXppLWxYWGhkTGw0QTRCRVVQdzNPZUlB">
-</div>
-<br>
+<div> 
+  <a href="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaynaracalixto)](https://github.com/thaynaracalixto/github-readme-stats)"></a>
+  </div>
